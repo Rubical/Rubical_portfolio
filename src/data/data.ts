@@ -17,11 +17,11 @@ export const experience = [
                 role: "Junior Frontend developer",
                 span: "March 2022 - April 2023",
                 descriptions: [
-                    "1) Development of the user interface, including the creation of components, forms, sliders and drop-down menus; ",
-                    "2) Working with Redux Toolkit to manage application state and Redux Thunk to handle asynchronous requests; ",
-                    "3) Styling - scss and styled-components, working with design libraries such as Material UI and Bootstrap; ",
-                    "4) Integration with API and other external services; ",
-                    "5) Collaboration with designers and other developers to ensure high quality code and optimal application performance. ",
+                    "Development of the user interface, including the creation of components, forms, sliders and drop-down menus; ",
+                    "Working with Redux Toolkit to manage application state and Redux Thunk to handle asynchronous requests; ",
+                    "Styling - scss and styled-components, working with design libraries such as Material UI and Bootstrap; ",
+                    "Integration with API and other external services; ",
+                    "Collaboration with designers and other developers to ensure high quality code and optimal application performance. ",
                 ]
             },
         ]
