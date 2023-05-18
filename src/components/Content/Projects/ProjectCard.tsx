@@ -80,7 +80,7 @@ export const Project = ({project}: Prop) => {
             </InfoWrapper>
             <Link href={demoLink} target="_blank" sx={{transition: 'transform 0.2s ease-in', '&:hover': {transform: 'scale(1.05)'}}}>
                 <ImageBox>
-                    <img style={{width: '400px', height: '200px'}}
+                    <img style={{maxWidth: '400px', width: '100%', height: '200px' }}
                          src={img}
                          alt="projectCard"
                     />
