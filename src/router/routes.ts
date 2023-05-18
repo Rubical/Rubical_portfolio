@@ -13,23 +13,23 @@ interface Routes {
 
 export const routes = [
     {
-        path: "/rubical_portfolio/about-me",
+        path: "/Rubical_portfolio/about-me?",
         element: AboutMe,
     },
     {
-        path: "/rubical_portfolio/certificates",
+        path: "/Rubical_portfolio/certificates",
         element: Certificates,
     },{
-        path: "/rubical_portfolio/education",
+        path: "/Rubical_portfolio/education",
         element: Education,
     },{
-        path: "/rubical_portfolio/experience",
+        path: "/Rubical_portfolio/experience",
         element: Experience,
     },{
-        path: "/rubical_portfolio/projects",
+        path: "/Rubical_portfolio/projects",
         element: Projects,
     },{
-        path: "/rubical_portfolio/skills",
+        path: "/Rubical_portfolio/skills",
         element: Skills,
     },
 
