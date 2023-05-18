@@ -32,11 +32,13 @@ const Wrapper = styled(Box)(({ theme }) => ({
     display: "flex",
     alignItems: "center",
     "& .bullet": {
-      height: 10,
-      minWidth: 10,
+      alignSelf: 'flex-start',
+      height: 7,
+      minWidth: 7,
       backgroundColor: "black",
       borderRadius: "50%",
-      marginRight: 10,
+      marginRight: 7,
+      marginTop: 9
     },
   },
 
