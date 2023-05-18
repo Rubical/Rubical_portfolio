@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rubical_portfolio/about-me/static/css/main.14c75b41.css",
+    "main.js": "/rubical_portfolio/about-me/static/js/main.bae42ac1.js",
+    "static/media/zenix-crypto-img.jpg": "/rubical_portfolio/about-me/static/media/zenix-crypto-img.78cf2c8020c1648781da.jpg",
+    "static/media/zenix-film-img.jpg": "/rubical_portfolio/about-me/static/media/zenix-film-img.21c592cd291c4960ac00.jpg",
+    "static/media/Pivovarov Eugene Aliaksandrovich.pdf": "/rubical_portfolio/about-me/static/media/Pivovarov Eugene Aliaksandrovich.9091c7af71c04db9cd50.pdf",
+    "static/media/zenix-cars-img.jpg": "/rubical_portfolio/about-me/static/media/zenix-cars-img.45ab026038b48c634c28.jpg",
+    "static/media/efset-cert.jpg": "/rubical_portfolio/about-me/static/media/efset-cert.9d381ffe4cbf0d73bb13.jpg",
+    "static/media/pic.png": "/rubical_portfolio/about-me/static/media/pic.6df7bc01d4539813593c.png",
+    "static/media/education.png": "/rubical_portfolio/about-me/static/media/education.3682fa5ac4f8df3fd30d.png",
+    "index.html": "/rubical_portfolio/about-me/index.html",
+    "main.14c75b41.css.map": "/rubical_portfolio/about-me/static/css/main.14c75b41.css.map",
+    "main.bae42ac1.js.map": "/rubical_portfolio/about-me/static/js/main.bae42ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c75b41.css",
+    "static/js/main.bae42ac1.js"
+  ]
+}
