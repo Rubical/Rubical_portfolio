@@ -10,7 +10,7 @@ export const aboutMe = 'Hello! My name is Evgeniy Pivovarov. Lawyer by education
 export const experience = [
     {
         span: "March 2022 -  April 2023",
-        company: "TC Igna",
+        company: "TC Elit",
         location: "Minsk, Belarus",
         progress: [
             {
