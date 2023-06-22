@@ -9,7 +9,7 @@ export const aboutMe = 'Hello! My name is Evgeniy Pivovarov. Lawyer by education
 
 export const experience = [
     {
-        span: "January 2022 -  April 2023",
+        span: "March 2022 -  April 2023",
         company: "TC Igna",
         location: "Minsk, Belarus",
         progress: [
@@ -51,7 +51,7 @@ export const projects = [
 
     },{
         name: "Zenix cars",
-        warning: 'THIS IS APP IS STILL IN PROGRESS',
+        warning: 'THIS IS APP IS STILL IN PROGRESS!',
         description: "Animated application for the selection of cars in various categories. Pictures taken from imagin.studio.",
         sourceCode: "https://github.com/Rubical/Zenix_Cars",
         demoLink: "https://rubical.github.io/Zenix_Cars/",
@@ -75,19 +75,15 @@ export const education = [
 
 export const skills = {
     softSkills: [
-        "JavaScript(ES6), TypeScript;",
-        "React.js, React Router, React hooks;",
-        "Redux;",
+        "JavaScript, TypeScript;",
+        "React.js, Redux;",
         "Vue.js, Vuex;",
-        "APIs: github, coingecko, nytimes, newsapi, etc;",
+        "Next.js;",
+        "APIs, GraphQL;",
         "Bootstrap, MaterialUI;",
-        "Tailwind css, scss;",
-        "Supabase;",
-        "BEM, DRY, KISS methodology;",
-
     ],
+
     hardSkills: [
-        "Sociability;",
         "Analytical mind;",
         "Punctuality;",
         "Perseverance;",
