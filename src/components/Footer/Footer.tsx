@@ -96,11 +96,6 @@ export const Footer = () => {
                     <GitHubIcon/>
                 </Link>
                 <Link sx={{transition: 'transform 0.1s ease-in', '&:hover': {transform: 'scale(1.1)'}}}
-                      href='https://www.linkedin.com/in/eugene-pivovarov-b5665116a/' target="_blank"
-                      style={{color: "black"}}>
-                    <LinkedInIcon/>
-                </Link>
-                <Link sx={{transition: 'transform 0.1s ease-in', '&:hover': {transform: 'scale(1.1)'}}}
                       href='https://twitter.com/Berxmanz' target="_blank" style={{color: "black"}}>
                     <TwitterIcon/>
                 </Link>

@@ -48,11 +48,6 @@ export const AboutMe = () => {
                 <DetailsWrapper>
                     <div style={{lineHeight: '1.5'}}>{aboutMe}</div>
                     <div className="actions">
-                        <CustomButton>
-                            <a href={resume} rel="noreferrer" target="_blank">
-                                View Resume
-                            </a>
-                        </CustomButton>
                     </div>
                 </DetailsWrapper>
             </AboutMeContainer>
